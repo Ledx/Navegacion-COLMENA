@@ -232,6 +232,13 @@ controlPrincipal.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/s
 controlPrincipal.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/_ti_config.h
 controlPrincipal.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/linkage.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_prop_cmd.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/timer/GPTimerCC26XX.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/family/arm/m3/Hwi.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/event.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/inc/hw_event.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/timer.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/inc/hw_gpt.h
+controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/Watchdog.h
 controlPrincipal.obj: ../Board.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/Power.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/utils/List.h
@@ -469,6 +476,13 @@ C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/string.h:
 C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/_ti_config.h: 
 C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/linkage.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_prop_cmd.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/timer/GPTimerCC26XX.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/family/arm/m3/Hwi.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/event.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/inc/hw_event.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/timer.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/inc/hw_gpt.h: 
+C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/Watchdog.h: 
 ../Board.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/Power.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/utils/List.h: 

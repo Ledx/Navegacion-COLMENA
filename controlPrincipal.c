@@ -36,10 +36,10 @@
 #include <ti/drivers/PWM.h>
 #include <ti/drivers/rf/RF.h>
 
-//#include <ti/drivers/timer/GPTimerCC26XX.h>
+#include <ti/drivers/timer/GPTimerCC26XX.h>
 //#include <ti/drivers/SPI.h>
 //#include <ti/drivers/UART.h>
-//#include <ti/drivers/Watchdog.h>
+#include <ti/drivers/Watchdog.h>
 
 /* Board Header files */
 #include "Board.h"
@@ -218,6 +218,5 @@ int main(void)
 
     /* Iniciando BIOS */
     BIOS_start();
-
     return (0);
 }
