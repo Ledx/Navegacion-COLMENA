@@ -222,16 +222,6 @@ controlPrincipal.obj: C:/ti/xdctools_3_32_00_06_core/packages/xdc/runtime/Error.
 controlPrincipal.obj: C:/ti/xdctools_3_32_00_06_core/packages/xdc/runtime/IModule.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/family/arm/m3/Hwi__epilogue.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/PWM.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/rf/RF.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/BIOS.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/knl/Clock.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/knl/Semaphore.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_common_cmd.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_mailbox.h
-controlPrincipal.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/string.h
-controlPrincipal.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/_ti_config.h
-controlPrincipal.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/linkage.h
-controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_prop_cmd.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/timer/GPTimerCC26XX.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/family/arm/m3/Hwi.h
 controlPrincipal.obj: C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/event.h
@@ -466,16 +456,6 @@ C:/ti/xdctools_3_32_00_06_core/packages/xdc/runtime/Error.h:
 C:/ti/xdctools_3_32_00_06_core/packages/xdc/runtime/IModule.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/family/arm/m3/Hwi__epilogue.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/PWM.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/rf/RF.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/BIOS.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/knl/Clock.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/knl/Semaphore.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_common_cmd.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_mailbox.h: 
-C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/string.h: 
-C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/_ti_config.h: 
-C:/ti/ccsv7/tools/compiler/ti-cgt-arm_18.1.1.LTS/include/linkage.h: 
-C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/rf_prop_cmd.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/tidrivers_cc13xx_cc26xx_2_21_01_01/packages/ti/drivers/timer/GPTimerCC26XX.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/bios_6_46_01_38/packages/ti/sysbios/family/arm/m3/Hwi.h: 
 C:/ti/tirtos_cc13xx_cc26xx_2_21_01_08/products/cc26xxware_2_24_03_17272/driverlib/event.h: 
